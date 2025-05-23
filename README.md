@@ -1,5 +1,5 @@
 # Prediccion de Insuficiencia Cardiaca
-![imagen](https://api.parashospitals.com/uploads/2021/03/Prevention-of-Heart-Disease.png)
+![Banner](assets/Banner_proyecto.png)
 
 ### *Autores:* Jhon Anderson Vargas, Juan Sebastian Alvarez
 ### *Objetivo:* Implementar y evaluar modelos de machine learning y deep learning para la detección temprana de insuficiencia cardíaca a partir de datos clínicos.
