@@ -44,4 +44,4 @@
 
 - 📁 Repositorio: https://github.com/Lucky0nTop/IA-1
 - 💻 Codigo : https://github.com/Lucky0nTop/IA-1/blob/main/Proyecto_IA.ipynb
-- 🎥 Video de presentacion de proyecto:
+- 🎥 Video de presentacion de proyecto: https://youtu.be/T4YdAMRtEiI
